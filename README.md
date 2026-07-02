@@ -7,7 +7,7 @@ Stack
   Database: MySQL (MariaDB via XAMPP)
   IDE: Apache NetBeans
 
-Features
+Features:
   Featured loadout cards for all 46 total weapons, including DLCs
   Pick 10 system with dot indicator
   Expandable cards showing full loadout details (attachments, optics, perks, gear, equipment, wildcards)
@@ -16,7 +16,7 @@ Features
 
 Setup
 
-Requirements
+Requirements:
   XAMPP (MySQL/MariaDB)
   Apache Tomcat 9+
   Apache NetBeans
