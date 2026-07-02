@@ -36,20 +36,3 @@ Project
   3. In DBConnection.java, set your MySQL username and password if needed (default is root with no password)
   4. Place your weapon/attachment/perk images in web/images/
   5. Clean & Build, then Run
-
-Project Structure
-  If you want to know how I structured the project for your reference, here it is.
-B04MetaLoadouts/
-├── web/
-│   ├── images/          # Weapon, attachment, perk, etc. images
-│   ├── WEB-INF/
-│   └── index.jsp        # Homepage
-└── src/java/com/bo4loadouts/
-    ├── dao/
-    │   └── LoadoutDAO.java      # Database queries
-    ├── model/
-    │   └── Loadout.java         # Loadout data model
-    ├── servlet/
-    │   └── LoadoutServlet.java  # Handles HTTP requests
-    └── util/
-        └── DBConnection.java    # Database connection
