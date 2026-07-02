@@ -1,0 +1,22 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# NetBeans cache
+.cache-main
+.cache-editor
+
+# WAR file
+*.war
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE config that shouldn't be shared
+*.iml
+.idea/
