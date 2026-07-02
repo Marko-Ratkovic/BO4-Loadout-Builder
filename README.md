@@ -8,11 +8,11 @@ Stack
   IDE: Apache NetBeans
 
 Features:
-  Featured loadout cards for all 46 total weapons, including DLCs
-  Pick 10 system with dot indicator
-  Expandable cards showing full loadout details (attachments, optics, perks, gear, equipment, wildcards)
-  Weapon images and attachment icons
-  Website style in the dark/orange theme of Black Ops 4
+  Featured loadout cards for all 46 total weapons, including DLCs.
+  Pick 10 system with dot indicator.
+  Expandable cards showing full loadout details (attachments, optics, perks, gear, equipment, wildcards).
+  Weapon images and attachment icons.
+  Website style in the dark/orange theme of Black Ops 4.
 
 Setup
 
